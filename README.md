@@ -1,2 +1,2 @@
 # piezo-modelling
-Model of Piezo 1 ion channel
+Model of Piezo 1 ion channel.
